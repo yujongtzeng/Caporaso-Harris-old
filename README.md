@@ -5,8 +5,7 @@ This project implements the recursive formulas of Caporaso-Harris and Vakil to c
 
 
 ### Prerequisites
-
-You should be able to run Java on your platform. 
+Java (7.0+) on your platform. 
 
 ### Installing
 

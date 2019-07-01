@@ -13,13 +13,13 @@ No installation is needed.
 
 ### How to use
 
-First get into the directory for this program. Then type
+First get into the directory for this program. Then enter
 
 ```
 javac CH.java
 java CH
 ```
-Then the program will show you instructions to enter inputs. The output files for numbers will be in /output/CH, and the output files for generating functions will be in /output/genFunCH. 
+in your command line. The program will show you instructions to enter inputs. The output files for numbers will be in /output/CH, and the output files for generating functions will be in /output/genFunCH. 
 
 The CH program is for computations on the projectives planes. The F0Table and HirTable are for the product of two projecive lines and any Hirzebruch surfaces respectively. The way to run F0Table and HirTable and their ourput are same with CH except the names. 
 

@@ -3,8 +3,8 @@ This project implements the recursive formulas of Caporaso-Harris and Vakil to c
 
 ## Table of contents
 * [Installing](#installing)
-* [How to use][how-to-use]
-*
+* [How to use](how-to-use)
+* [API Reference](api-reference)
 
 ### Installing
 
@@ -20,10 +20,9 @@ The program will show you instructions to enter inputs and the location for outp
 
 The CH class is for computations on the projectives planes. F0Table and HirTable are for the product of two projecive lines and any Hirzebruch surfaces respectively. F0Table and HirTable can be run in the same way. 
 
-
 ### API Reference
 
-The documentation is under [doc](/docs) directory.
+The documentation is under [doc](/doc) directory.
 
 ### Tests
 

@@ -1,29 +1,29 @@
 # Caporaso-Harris
-This project implements the recursive formulas of Caporaso-Harris and Vakil to compute the number of nodal curves satisfying given tangency conditions with a divisor on the projective plane and Hirzebruch surfaces. 
+This project implements the recursive formulas of Caporaso-Harris and Vakil to compute the number of nodal curves satisfying given tangency conditions with a line on the projective plane or Hirzebruch surfaces. 
 
-### Prerequisites
-Java (7.0+) on your platform. 
+## Table of contents
+* [Installing](#installing)
+* [How to use][how-to-use]
+*
 
 ### Installing
 
 No installation is needed.
 
 ### How to use
-
-First get into the directory for this program. Then enter
-
+For computation on the projective plane,
 ```
-javac CH.java
-java CH
+$ javac CH.java
+$ java CH
 ```
-in your command line. The program will show you instructions to enter inputs. The output files for numbers will be in /output/CH, and the output files for generating functions will be in /output/genFunCH. 
+The program will show you instructions to enter inputs and the location for output. It will print the number of nodal curves as well as their first terms for generating functions in the output files. 
 
-The CH program is for computations on the projectives planes. The F0Table and HirTable are for the product of two projecive lines and any Hirzebruch surfaces respectively. The way to run F0Table and HirTable and their ourput are same with CH except the names. 
+The CH class is for computations on the projectives planes. F0Table and HirTable are for the product of two projecive lines and any Hirzebruch surfaces respectively. F0Table and HirTable can be run in the same way. 
 
 
 ### API Reference
 
-The documentation is under doc directory.
+The documentation is under [doc](/docs) directory.
 
 ### Tests
 

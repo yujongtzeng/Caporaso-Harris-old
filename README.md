@@ -36,17 +36,20 @@ The documentation is under [doc](/doc) directory.
 
 ### Tests
 
-Sample output files are provided under [sample output](/sample output) directory. If they match with your output file it can be almost sure your program is working fine.
+Sample output files are provided under [sample output](/sample%20output) directory. If they match with your output file it can be almost sure your program is working fine.
 
-## Versioning
+### Technologies
+Java 8
+
+### Versioning
 
 Version 3. 
 
-## Authors
+### Authors
 
 * **Yu-jong Tzeng** 
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 

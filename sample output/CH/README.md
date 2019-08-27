@@ -1,6 +1,6 @@
 # How to use
 
-The files in this directory is the output of CH.class. For all i and j, the file O(i)_r=j.txt contains all Caporaso-Harris invariants
+The files in this directory is the output of CH.java. For all i and j, the file O(i)_r=j.txt contains all Caporaso-Harris invariants
 on P^2 with degree i and j nodes. 
 
 For i >= 26, the file size is too large so we use the split tool in mac to split the file into several parts by the command

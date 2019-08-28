@@ -6,7 +6,7 @@ import java.util.Arrays;
  * is they accept different inputs. 
  * @author Yu-jong Tzeng
  * @version 2.1
- * @since March 20, 2019.
+ * @since August 24, 2019.
  */
 
 public class Key
@@ -62,19 +62,16 @@ public class Key
     }   
     
     /**
-     * The make method concatenate two integers and two int[]. 
+     * The make method concatenate one integer and two int[]. 
      * 
-     * @param deg int
      * @param r int
      * @param alpha int[]
      * @param beta int[]
      * @return ArrayList<Integer> The concatenation of the inputs 
      * (no separators). 
      */
-    public static ArrayList<Integer> make(int deg, int r, 
-                                          int[] alpha, int[] beta) {
+    public static ArrayList<Integer> make(int r, int[] alpha, int[] beta) {
         ArrayList<Integer> key = new ArrayList<Integer>();
-        key.add(deg);
         key.add(r);  
         for (int i = 0; i < alpha.length; i++) {
             key.add(alpha[i]);

@@ -42,7 +42,7 @@ Version 3.
 
 ### Authors
 
-* **Yu-jong Tzeng** 
+**Yu-jong Tzeng** 
 
 ### License
 

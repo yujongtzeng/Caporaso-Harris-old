@@ -23,7 +23,7 @@ $ java CH
 ```
 The program will show you instructions to enter inputs and the location for output. It will print the number of nodal curves as well as their first terms for generating functions in the output files. 
 
-The CH class is for computations on the projectives planes. F0Table and HirTable are for the product of two projecive lines and any Hirzebruch surfaces respectively. F0Table and HirTable can be run in the same way. 
+The CH class is for computations on the projectives planes. F0Table and HirTable are for the product of two projece lines and any Hirzebruch surfaces respectively. F0Table and HirTable can be run in the same way. 
 
 ### API Reference
 

@@ -5,11 +5,6 @@ The recursive formulae can be found here:
 * [Caporaso-Harris](https://arxiv.org/pdf/alg-geom/9608025.pdf) Theorem 1.1
 * [Vakil](https://link.springer.com/article/10.1007/s002291020053) Theorem 6.12
 
-### Table of contents
-* [Installing](#installing)
-* [How to use](how-to-use)
-* [API Reference](api-reference)
-
 ### Features
 We improved the naive recursive algorithm by:
 * using dynamic approach
